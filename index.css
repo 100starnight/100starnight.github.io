@@ -1,0 +1,4 @@
+.test_area {
+  display: flex;
+  flex-direction: column;
+}
